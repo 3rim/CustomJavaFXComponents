@@ -10,6 +10,11 @@ ToggleSwitch on
 <br>
 ![toggleSwitchOn](https://user-images.githubusercontent.com/37411005/225295912-dba22327-7fb6-497d-b320-385de0da9902.PNG)
 <br>
+```java
+private ToggleSwitch toggleSwitch = new ToogleSwitch();
+boolean property = toggleSwitch.switchedOnProperty().get();
+```
+
 
 
 
